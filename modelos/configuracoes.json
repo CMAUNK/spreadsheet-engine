@@ -1,0 +1,8 @@
+ "2b2e7a688e55915a5dd468a82fa36a7da7865e0be9e8b3ace1372774a65bc973": {
+    "sheet_name": "Planilha1",
+    "reference_label": "A — UNIDADE",
+    "destination_label": "B — CÓDIGO",
+    "start_row": 3,
+    "date_cell": "C1"
+  }
+}
